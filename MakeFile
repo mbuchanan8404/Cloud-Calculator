@@ -1,0 +1,6 @@
+To run the project, navigate to its directory in the console and enter
+$ python3 Server.py <udp port number>
+	I used: ~$python3 Server.py 1200
+Or to run the client
+$ python3 client.py <server hostname> <server port>
+	I used: ~$python3 client.py "" 1200
